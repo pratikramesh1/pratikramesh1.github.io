@@ -3,9 +3,9 @@ I’m a 1st year Ph.D. student at Georgia Tech, advised by [Judy Hoffman](https:
 I earned my masters in ECE in 2022 at Georgia Tech, advised by Rishikesan Kamaleswaran where I  worked on machine translation of bio-sensors as a research assistant. 
 
 ### Research Interest
-Representation Learning
-Robustness
-Generative Models
+- Representation Learning
+- Robustness
+- Generative Models
 
 ### Education
 - Ph.D. in Machine Learning, Georgia Institute of Technology (_Jan_2023_)
@@ -13,5 +13,13 @@ Generative Models
 - M.Sc. in Electrical and Computer Engineering, Georgia Institute of Technology (_May_2022_)
 - B.Tech in Electronics and Communication Engineering, PES University (_May_2019)
 
+## Publications
+
+### [ORAL] ZipIt!: Multitask Model Merging without Training
+[Publication](https://openreview.net/forum?id=oPGXH9Vm4R) [Code](https://github.com/gstoica27/ZipIt)
+
+A framework for merging models solving different tasks with different initializations into one multi-task model without any additional training.
+
+![ZipIt](/assets/Zipit_teaserfig.jpg)
 
 
