@@ -3,15 +3,16 @@ I’m a 1st year Ph.D. student at Georgia Tech, advised by [Judy Hoffman](https:
 I earned my masters in ECE in 2022 at Georgia Tech, advised by Rishikesan Kamaleswaran where I  worked on machine translation of bio-sensors as a research assistant. 
 
 ### Research Interest
+- Model Merging
 - Representation Learning
 - Robustness
 - Generative Models
 
 ### Education
-- Ph.D. in Machine Learning, Georgia Institute of Technology (_Jan_2023_)
+- Ph.D. in Machine Learning, Georgia Institute of Technology, 2023
   Advisor: Professor Judy Hoffman
-- M.Sc. in Electrical and Computer Engineering, Georgia Institute of Technology (_May_2022_)
-- B.Tech in Electronics and Communication Engineering, PES University (_May_2019)
+- M.Sc. in Electrical and Computer Engineering, Georgia Institute of Technology, 2022
+- B.Tech in Electronics and Communication Engineering, PES University, 2019
 
 ## Publications
 
