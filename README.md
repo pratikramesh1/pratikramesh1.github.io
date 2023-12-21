@@ -16,10 +16,32 @@ I earned my masters in ECE in 2022 at Georgia Tech, advised by Rishikesan Kamale
 ## Publications
 
 ### [ORAL] ZipIt!: Multitask Model Merging without Training
+George Stoica, Daniel Bolya, Jakob Brandt Bjorner, Pratik Ramesh, Taylor Hearn, Judy Hoffman
+Workshop on Unifying Representations in Neural Models, NeurIPS 2023
 [Publication](https://openreview.net/forum?id=oPGXH9Vm4R) [Code](https://github.com/gstoica27/ZipIt)
+![ZipIt](/assets/Zipit_teaserfig.png)
 
-A framework for merging models solving different tasks with different initializations into one multi-task model without any additional training.
+### FACTS: First Amplify Correlations and Then Slice to Discover Bias
+Sriram Yenamandra, Pratik Ramesh, Viraj Prabhu, Judy Hoffman
+International Conference on Computer Vision (ICCV) 2023
+[Publication](https://openaccess.thecvf.com/content/ICCV2023/papers/Yenamandra_FACTS_First_Amplify_Correlations_and_Then_Slice_to_Discover_Bias_ICCV_2023_paper.pdf) [Code](https://github.com/yvsriram/FACTS)
+![FACTS](/assets/FACTS_teaserfig.jpeg)
 
-![ZipIt](/assets/Zipit_teaserfig.jpg)
+### Locally Aggregated Hierarchical Decomposition-based Ensemble Learning for Robust Face Recognition
+Vinay A, Rahul Ragesh, Nikitha Rao, Pratik R, Natarajan S and K.N Balasubramanya Murthy
+International Conference on Sustainable Computing in Science, Technology and Management, 2019
+[Publication](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3358174)
+![SUSCOM19](/assets/SUSCOM19.png)
+
+### Face Recognition using Interest Points and Ensemble of Classifiers
+A Vinay, Pratik Rajesh Sampat, Sagar V Belavadi, Pratik R, Nikitha Rao B S, Rahul Ragesh, K N Balasubramanya Murthy and S Natarajan
+International Conference on Sustainable Computing in Science, Technology and Management, 2019
+[Publication](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3358174)
+![RAIT18](/assets/RAIT18.png)
+
+
+
+
+
 
 
