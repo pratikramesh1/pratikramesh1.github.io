@@ -32,7 +32,7 @@ International Conference on Computer Vision (ICCV) 2023
 
 [Publication](https://openaccess.thecvf.com/content/ICCV2023/papers/Yenamandra_FACTS_First_Amplify_Correlations_and_Then_Slice_to_Discover_Bias_ICCV_2023_paper.pdf) [Code](https://github.com/yvsriram/FACTS)
 
-![FACTS](/assets/FACTS_teaserfig.jpeg)
+![FACTS](/assets/FACTS_teaserfig.jpg)
 
 ### Locally Aggregated Hierarchical Decomposition-based Ensemble Learning for Robust Face Recognition
 
