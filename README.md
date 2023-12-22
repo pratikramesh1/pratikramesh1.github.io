@@ -19,7 +19,7 @@ I earned my masters in ECE in 2022 at Georgia Tech, advised by [Rishikesan Kamal
 ---
 ## Publications
 
-### ** <span style="color:orange;">_[ORAL]_</span> ZipIt!: Multitask Model Merging without Training**
+### ** <span style="color:orange;">[ORAL]</span> ZipIt!: Multitask Model Merging without Training**
 George Stoica, Daniel Bolya, Jakob Brandt Bjorner, **Pratik Ramesh**, Taylor Hearn, Judy Hoffman
 <br>_Workshop on Unifying Representations in Neural Models, NeurIPS 2023_
 
