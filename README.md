@@ -31,7 +31,7 @@ George Stoica, Daniel Bolya, Jakob Brandt Bjorner, **Pratik Ramesh**, Taylor Hea
 
 Sriram Yenamandra, **Pratik Ramesh**, Viraj Prabhu, Judy Hoffman
 <br>_International Conference on Computer Vision (ICCV) 2023_
-[Publication](https://openaccess.thecvf.com/content/ICCV2023/papers/Yenamandra_FACTS_First_Amplify_Correlations_and_Then_Slice_to_Discover_Bias_ICCV_2023_paper.pdf) [Code](https://github.com/yvsriram/FACTS)
+[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Yenamandra_FACTS_First_Amplify_Correlations_and_Then_Slice_to_Discover_Bias_ICCV_2023_paper.pdf) [Code](https://github.com/yvsriram/FACTS)
 ![FACTS](/assets/FACTS_teaserfig.jpg)
 
 ---
@@ -40,7 +40,7 @@ Sriram Yenamandra, **Pratik Ramesh**, Viraj Prabhu, Judy Hoffman
 
 Vinay A, Rahul Ragesh, Nikitha Rao, **Pratik R**, Natarajan S and K.N Balasubramanya Murthy
 <br>_International Conference on Sustainable Computing in Science, Technology and Management, 2019_
-[Publication](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3358174)
+[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3358174)
 ![SUSCOM19](/assets/SUSCOM19.png)
 
 ---
@@ -48,7 +48,7 @@ Vinay A, Rahul Ragesh, Nikitha Rao, **Pratik R**, Natarajan S and K.N Balasubram
 
 A Vinay, Pratik Rajesh Sampat, Sagar V Belavadi, **Pratik R**, Nikitha Rao B S, Rahul Ragesh, K N Balasubramanya Murthy and S Natarajan
 <br>_International Conference on Sustainable Computing in Science, Technology and Management, 2019_
-[Publication](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3358174)
+[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3358174)
 ![RAIT18](/assets/RAIT18.png)
 ---
 
