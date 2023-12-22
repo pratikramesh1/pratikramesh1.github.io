@@ -1,7 +1,7 @@
 ## <span style="color:orange;">About Me</span>
 I’m a 1st year Ph.D. student at Georgia Tech, advised by [Judy Hoffman](https://faculty.cc.gatech.edu/~judy/). I’m interested in developing fundamental techniques and algorithms to make deep learning models efficient and robust. My research focuses on model merging, representation learning, robustness and generative models. Recently, my work has revolved around fusing fine-tuned models in settings such as multi-task learning, federated learning and continual learning. I have also been awarded the **Herbert P. Haley fellowship** by Georgia Tech for the years 2023-2024.
 
-I earned my masters in ECE in 2022 at Georgia Tech, advised by [Rishikesan Kamaleswaran](https://bioinformatics.gatech.edu/rishikesan-kamaleswaran) where I worked on machine translation of bio-sensors as a research assistant. 
+I earned my masters in ECE in 2022 at Georgia Tech, advised by [Rishikesan Kamaleswaran](https://bioinformatics.gatech.edu/rishikesan-kamaleswaran) where I worked on machine translation on clinical sensor data as a research assistant. 
 
 ### Research Interest
 - Model Merging
