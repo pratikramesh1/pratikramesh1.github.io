@@ -26,7 +26,7 @@ George Stoica, Daniel Bolya, Jakob Brandt Bjorner, **Pratik Ramesh**, Taylor Hea
 <div class="actions button-container">
     <div class="button-group">
         <button onclick="window.location.href='https://openreview.net/forum?id=oPGXH9Vm4R'" class="button">Paper</button>
-        <button onclick="window.location.href='https://github.com/gstoica27/ZipIt'" class="button">Paper</button>
+        <button onclick="window.location.href='https://github.com/gstoica27/ZipIt'" class="button">Code</button>
     </div>
 </div>
 
@@ -42,7 +42,7 @@ Sriram Yenamandra, **Pratik Ramesh**, Viraj Prabhu, Judy Hoffman
 <div class="actions button-container">
     <div class="button-group">
         <button onclick="window.location.href='https://openaccess.thecvf.com/content/ICCV2023/papers/Yenamandra_FACTS_First_Amplify_Correlations_and_Then_Slice_to_Discover_Bias_ICCV_2023_paper.pdf'" class="button">Paper</button>
-        <button onclick="window.location.href='https://github.com/yvsriram/FACTS'" class="button">Paper</button>
+        <button onclick="window.location.href='https://github.com/yvsriram/FACTS'" class="button">Code</button>
     </div>
 </div>
 
