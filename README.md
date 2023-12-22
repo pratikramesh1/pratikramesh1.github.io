@@ -9,6 +9,7 @@ I earned my masters in ECE in 2022 at Georgia Tech, advised by [Rishikesan Kamal
 - Robustness
 - Generative Models
 
+[email](pratikramesh@gatech.edu) | [google scholar]() | [github]() | [linkdin]() | [cv]()
 <!---
 ### Education
 - Ph.D. in Machine Learning, Georgia Institute of Technology, 2023
