@@ -22,7 +22,26 @@ I earned my masters in ECE in 2022 at Georgia Tech, advised by [Rishikesan Kamal
 ### **[ORAL] ZipIt!: Multitask Model Merging without Training**
 George Stoica, Daniel Bolya, Jakob Brandt Bjorner, **Pratik Ramesh**, Taylor Hearn, Judy Hoffman
 <br>_Workshop on Unifying Representations in Neural Models, NeurIPS 2023_
+
 <a href="#" class="button big">Create Project</a>
+<a href="#" class="button">Post comment (link)</a>
+<input class="button" type="submit" value="Post comment (input)">
+<button class="button" type="submit">Post comment (button)</button>
+
+<div class="actions button-container">
+    <a href="#" class="button primary">Compose new</a>
+
+    <div class="button-group">
+        <a href="#" class="button primary">Archive</a>
+        <a href="#" class="button">Report spam</a>
+        <a href="#" class="button danger">Delete</a>
+    </div>
+
+    <div class="button-group minor-group">
+        <a href="#" class="button">Move to</a>
+        <a href="#" class="button">Labels</a>
+    </div>
+</div>
 
 <kbd>[Paper](https://openreview.net/forum?id=oPGXH9Vm4R)</kbd> <kbd>[Code](https://github.com/gstoica27/ZipIt)</kbd> 
 ![ZipIt](/assets/Zipit_teaserfig.png)
