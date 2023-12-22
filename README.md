@@ -23,8 +23,8 @@ I earned my masters in ECE in 2022 at Georgia Tech, advised by [Rishikesan Kamal
 George Stoica, Daniel Bolya, Jakob Brandt Bjorner, **Pratik Ramesh**, Taylor Hearn, Judy Hoffman
 <br>_Workshop on Unifying Representations in Neural Models, NeurIPS 2023_
 
-<kbd>[Paper](https://openreview.net/forum?id=oPGXH9Vm4R)</kbd> <kbd>[Code](https://github.com/gstoica27/ZipIt)
-![ZipIt](/assets/Zipit_teaserfig.png)</kbd> 
+<kbd>[Paper](https://openreview.net/forum?id=oPGXH9Vm4R)</kbd> <kbd>[Code](https://github.com/gstoica27/ZipIt)</kbd> 
+![ZipIt](/assets/Zipit_teaserfig.png)
 
 ---
 ### FACTS: First Amplify Correlations and Then Slice to Discover Bias
