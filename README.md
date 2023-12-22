@@ -25,9 +25,8 @@ George Stoica, Daniel Bolya, Jakob Brandt Bjorner, **Pratik Ramesh**, Taylor Hea
 
 <div class="actions button-container">
     <div class="button-group">
-        <button onclick="window.location.href='http://www.google.com'" class="button">Paper</button>
-        <button onclick="https://openreview.net/forum?id=oPGXH9Vm4R" class="button big">Paper</button>
-        <button onclick="https://github.com/gstoica27/ZipIt" class="button big">Code</button>
+        <button onclick="window.location.href='https://openreview.net/forum?id=oPGXH9Vm4R'" class="button">Paper</button>
+        <button onclick="window.location.href='https://github.com/gstoica27/ZipIt'" class="button">Paper</button>
     </div>
 </div>
 
@@ -39,12 +38,14 @@ George Stoica, Daniel Bolya, Jakob Brandt Bjorner, **Pratik Ramesh**, Taylor Hea
 Sriram Yenamandra, **Pratik Ramesh**, Viraj Prabhu, Judy Hoffman
 <br>_International Conference on Computer Vision (ICCV) 2023_
 
+
 <div class="actions button-container">
     <div class="button-group">
-        <button onclick="https://openaccess.thecvf.com/content/ICCV2023/papers/Yenamandra_FACTS_First_Amplify_Correlations_and_Then_Slice_to_Discover_Bias_ICCV_2023_paper.pdf" class="button big">Paper</button>
-        <button onclick="https://github.com/yvsriram/FACTS" class="button big">Code</button>
+        <button onclick="window.location.href='https://openaccess.thecvf.com/content/ICCV2023/papers/Yenamandra_FACTS_First_Amplify_Correlations_and_Then_Slice_to_Discover_Bias_ICCV_2023_paper.pdf'" class="button">Paper</button>
+        <button onclick="window.location.href='https://github.com/yvsriram/FACTS'" class="button">Paper</button>
     </div>
 </div>
+
 
 ![FACTS](/assets/FACTS_teaserfig.jpg)
 
@@ -54,7 +55,7 @@ Sriram Yenamandra, **Pratik Ramesh**, Viraj Prabhu, Judy Hoffman
 Vinay A, Rahul Ragesh, Nikitha Rao, **Pratik R**, Natarajan S and K.N Balasubramanya Murthy
 <br>_International Conference on Sustainable Computing in Science, Technology and Management, 2019_
 
-<button onclick="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3358174" class="button big">Paper</button>
+<button onclick="window.location.href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3358174'" class="button">Paper</button>
 
 ![SUSCOM19](/assets/SUSCOM19.png)
 
@@ -64,7 +65,7 @@ Vinay A, Rahul Ragesh, Nikitha Rao, **Pratik R**, Natarajan S and K.N Balasubram
 A Vinay, Pratik Rajesh Sampat, Sagar V Belavadi, **Pratik R**, Nikitha Rao B S, Rahul Ragesh, K N Balasubramanya Murthy and S Natarajan
 <br>_International Conference on Sustainable Computing in Science, Technology and Management, 2019_
 
-<button onclick="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3358174" class="button big">Paper</button>
+<button onclick="window.location.href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3358174'" class="button">Paper</button>
 
 ![RAIT18](/assets/RAIT18.png)
 ---
