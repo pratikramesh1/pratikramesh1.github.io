@@ -25,7 +25,7 @@ George Stoica, Daniel Bolya, Jakob Brandt Bjorner, **Pratik Ramesh**, Taylor Hea
 
 <div class="actions button-container">
     <div class="button-group">
-        <a href="https://openreview.net/forum?id=oPGXH9Vm4R" class="button big">Paper</a>
+        <button href="https://openreview.net/forum?id=oPGXH9Vm4R" class="button big">Paper</button>
         <a href="https://github.com/gstoica27/ZipIt" class="button big">Code</a>
     </div>
 </div>
