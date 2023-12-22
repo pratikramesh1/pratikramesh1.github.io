@@ -57,7 +57,7 @@ Vinay A, Rahul Ragesh, Nikitha Rao, **Pratik R**, Natarajan S and K.N Balasubram
 
 <button onclick="window.location.href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3358174'" class="button">Paper</button>
 
-#![SUSCOM19](/assets/SUSCOM19.png)
+<!-- #![SUSCOM19](/assets/SUSCOM19.png) -->
 
 ---
 
@@ -67,7 +67,7 @@ A Vinay, Pratik Rajesh Sampat, Sagar V Belavadi, **Pratik R**, Nikitha Rao B S, 
 
 <button onclick="window.location.href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3358174'" class="button">Paper</button>
 
-#![RAIT18](/assets/RAIT18.png)
+<!-- ![RAIT18](/assets/RAIT18.png) -->
 ---
 
 
