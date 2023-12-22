@@ -17,9 +17,9 @@ I earned my masters in ECE in 2022 at Georgia Tech, advised by [Rishikesan Kamal
 - B.Tech in Electronics and Communication Engineering, PES University, 2019
 --->
 ---
-## <span style="color:blue;">Publications</span>
+## <span style="color:#40E0D0;">Publications</span>
 
-### <span style="color:orange;">[ORAL]</span> **ZipIt!: Multitask Model Merging without Training**
+### <span style="color:#40E0D0;">[ORAL]</span> **ZipIt!: Multitask Model Merging without Training**
 George Stoica, Daniel Bolya, Jakob Brandt Bjorner, **Pratik Ramesh**, Taylor Hearn, Judy Hoffman
 <br>_Workshop on Unifying Representations in Neural Models, NeurIPS 2023_
 
