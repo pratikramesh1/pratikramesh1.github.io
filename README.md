@@ -14,7 +14,7 @@ I earned my masters in ECE in 2022 at Georgia Tech, advised by [Rishikesan Kamal
   <a href="https://scholar.google.com/citations?user=zJyuMYgAAAAJ&hl=en">google scholar</a> |
   <a href="https://github.com/pratikramesh1">github</a> |
   <a href="https://www.linkedin.com/in/pratik-ramesh-234471114/">linkdin</a> |
-  <a href="https://1drv.ms/b/s!Agzx62GYs0WOkQNnMht-x-qaPFHe?e=PluCxp">cv</a> |
+  <a href="https://1drv.ms/b/s!Agzx62GYs0WOkQNnMht-x-qaPFHe?e=PluCxp">cv</a> 
 </p>
 
 
