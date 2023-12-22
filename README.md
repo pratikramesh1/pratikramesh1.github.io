@@ -10,7 +10,7 @@ I earned my masters in ECE in 2022 at Georgia Tech, advised by [Rishikesan Kamal
 - Generative Models
 
 <p align="center">
-  <a href="pratikramesh@gatech.edu">email</a> |
+  <a href="mailto:pratikramesh@gatech.edu">email</a> |
   <a href="https://scholar.google.com/citations?user=zJyuMYgAAAAJ&hl=en">google scholar</a> |
   <a href="https://github.com/pratikramesh1">github</a> |
   <a href="https://www.linkedin.com/in/pratik-ramesh-234471114/">linkdin</a> |
