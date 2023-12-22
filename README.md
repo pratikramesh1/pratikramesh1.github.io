@@ -28,6 +28,7 @@ George Stoica, Daniel Bolya, Jakob Brandt Bjorner, **Pratik Ramesh**, Taylor Hea
         <button onclick="https://github.com/gstoica27/ZipIt" class="button big">Code</button>
     </div>
 </div>
+
 ![ZipIt](/assets/Zipit_teaserfig.png)
 
 ---
@@ -41,6 +42,7 @@ Sriram Yenamandra, **Pratik Ramesh**, Viraj Prabhu, Judy Hoffman
         <button onclick="https://github.com/yvsriram/FACTS" class="button big">Code</button>
     </div>
 </div>
+
 ![FACTS](/assets/FACTS_teaserfig.jpg)
 
 ---
@@ -48,7 +50,9 @@ Sriram Yenamandra, **Pratik Ramesh**, Viraj Prabhu, Judy Hoffman
 ### **Locally Aggregated Hierarchical Decomposition-based Ensemble Learning for Robust Face Recognition**
 Vinay A, Rahul Ragesh, Nikitha Rao, **Pratik R**, Natarajan S and K.N Balasubramanya Murthy
 <br>_International Conference on Sustainable Computing in Science, Technology and Management, 2019_
+
 <button onclick="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3358174" class="button big">Paper</button>
+
 ![SUSCOM19](/assets/SUSCOM19.png)
 
 ---
@@ -56,7 +60,9 @@ Vinay A, Rahul Ragesh, Nikitha Rao, **Pratik R**, Natarajan S and K.N Balasubram
 ### **Face Recognition using Interest Points and Ensemble of Classifiers**
 A Vinay, Pratik Rajesh Sampat, Sagar V Belavadi, **Pratik R**, Nikitha Rao B S, Rahul Ragesh, K N Balasubramanya Murthy and S Natarajan
 <br>_International Conference on Sustainable Computing in Science, Technology and Management, 2019_
+
 <button onclick="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3358174" class="button big">Paper</button>
+
 ![RAIT18](/assets/RAIT18.png)
 ---
 
