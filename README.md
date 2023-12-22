@@ -25,8 +25,8 @@ George Stoica, Daniel Bolya, Jakob Brandt Bjorner, **Pratik Ramesh**, Taylor Hea
 
 <div class="actions button-container">
     <div class="button-group">
-        [<button class="button" type="submit">Paper</button>](https://openreview.net/forum?id=oPGXH9Vm4R)
-        <button class="button" type="submit">[Code](https://github.com/gstoica27/ZipIt)</button>
+        <button class="button big" type="submit">Paper (https://openreview.net/forum?id=oPGXH9Vm4R)</button>
+        <button class="button big" type="submit">[Code](https://github.com/gstoica27/ZipIt)</button>
     </div>
 </div>
 
