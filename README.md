@@ -22,6 +22,7 @@ I earned my masters in ECE in 2022 at Georgia Tech, advised by [Rishikesan Kamal
 ### **[ORAL] ZipIt!: Multitask Model Merging without Training**
 George Stoica, Daniel Bolya, Jakob Brandt Bjorner, **Pratik Ramesh**, Taylor Hearn, Judy Hoffman
 <br>_Workshop on Unifying Representations in Neural Models, NeurIPS 2023_
+
 <div class="actions button-container">
     <div class="button-group">
         <button onclick="https://openreview.net/forum?id=oPGXH9Vm4R" class="button big">Paper</button>
@@ -36,6 +37,7 @@ George Stoica, Daniel Bolya, Jakob Brandt Bjorner, **Pratik Ramesh**, Taylor Hea
 ### **FACTS: First Amplify Correlations and Then Slice to Discover Bias**
 Sriram Yenamandra, **Pratik Ramesh**, Viraj Prabhu, Judy Hoffman
 <br>_International Conference on Computer Vision (ICCV) 2023_
+
 <div class="actions button-container">
     <div class="button-group">
         <button onclick="https://openaccess.thecvf.com/content/ICCV2023/papers/Yenamandra_FACTS_First_Amplify_Correlations_and_Then_Slice_to_Discover_Bias_ICCV_2023_paper.pdf" class="button big">Paper</button>
