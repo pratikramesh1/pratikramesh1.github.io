@@ -21,42 +21,36 @@ I earned my masters in ECE in 2022 at Georgia Tech, advised by [Rishikesan Kamal
 
 ### [ORAL] ZipIt!: Multitask Model Merging without Training
 George Stoica, Daniel Bolya, Jakob Brandt Bjorner, **Pratik Ramesh**, Taylor Hearn, Judy Hoffman
-(<br>)_Workshop on Unifying Representations in Neural Models, NeurIPS 2023_
+<br>_Workshop on Unifying Representations in Neural Models, NeurIPS 2023_
 
-<kbd> [Paper](https://openreview.net/forum?id=oPGXH9Vm4R)</kbd>  <kbd> [Code](https://github.com/gstoica27/ZipIt)
+<kbd>[Paper](https://openreview.net/forum?id=oPGXH9Vm4R)</kbd> <kbd>[Code](https://github.com/gstoica27/ZipIt)
 ![ZipIt](/assets/Zipit_teaserfig.png)</kbd> 
 
-('---')
+'---'
 ### FACTS: First Amplify Correlations and Then Slice to Discover Bias
 
 Sriram Yenamandra, **Pratik Ramesh**, Viraj Prabhu, Judy Hoffman
-(<br>)_International Conference on Computer Vision (ICCV) 2023_
-
+<br>_International Conference on Computer Vision (ICCV) 2023_
 [Publication](https://openaccess.thecvf.com/content/ICCV2023/papers/Yenamandra_FACTS_First_Amplify_Correlations_and_Then_Slice_to_Discover_Bias_ICCV_2023_paper.pdf) [Code](https://github.com/yvsriram/FACTS)
-
 ![FACTS](/assets/FACTS_teaserfig.jpg)
 
-('---')
+'---'
 
 ### Locally Aggregated Hierarchical Decomposition-based Ensemble Learning for Robust Face Recognition
 
 Vinay A, Rahul Ragesh, Nikitha Rao, **Pratik R**, Natarajan S and K.N Balasubramanya Murthy
-(<br>)_International Conference on Sustainable Computing in Science, Technology and Management, 2019_
-
+<br>_International Conference on Sustainable Computing in Science, Technology and Management, 2019_
 [Publication](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3358174)
-
 ![SUSCOM19](/assets/SUSCOM19.png)
 
-('---')
+'---'
 ### Face Recognition using Interest Points and Ensemble of Classifiers
 
 A Vinay, Pratik Rajesh Sampat, Sagar V Belavadi, **Pratik R**, Nikitha Rao B S, Rahul Ragesh, K N Balasubramanya Murthy and S Natarajan
-(<br>)_International Conference on Sustainable Computing in Science, Technology and Management, 2019_
-
+<br>_International Conference on Sustainable Computing in Science, Technology and Management, 2019_
 [Publication](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3358174)
-
 ![RAIT18](/assets/RAIT18.png)
-
+'---'
 
 
 
