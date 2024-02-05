@@ -1,20 +1,20 @@
 ## <span style="color:#287cb9;">About Me</span>
-I’m a 1st year Ph.D. student at Georgia Tech, advised by **[Judy Hoffman](https://faculty.cc.gatech.edu/~judy/)**. I’m interested in developing fundamental techniques and algorithms to make deep learning models efficient and robust. My research focuses on model merging, representation learning, robustness and generative models. Recently, my work has revolved around fusing fine-tuned models in settings such as multi-task learning, federated learning and continual learning. I have also been awarded the **Herbert P. Haley fellowship** by Georgia Tech for the years 2023-2024.
+I’m a 2nd year Ph.D. student at Georgia Tech, advised by **[Judy Hoffman](https://faculty.cc.gatech.edu/~judy/)**. I’m interested in developing fundamental techniques and algorithms to make deep learning models efficient and robust. My research focuses on efficient deep learning, model merging, transfer learning, bias detection & robustness. Recently, my work has revolved around fusing fine-tuned models in settings such as multi-task learning, federated learning and continual learning. I have been awarded the **Herbert P. Haley fellowship** by Georgia Tech for the years 2023-2024.
 
 I earned my masters in ECE in 2022 at Georgia Tech, advised by **[Rishikesan Kamaleswaran](https://bioinformatics.gatech.edu/rishikesan-kamaleswaran)** where I worked on machine translation on clinical sensor data as a research assistant. 
 
 ### Research Interest
+- Efficient Deep Learning
 - Model Merging
-- Representation Learning
-- Robustness
-- Generative Models
+- Transfer Learning
+- Bias detection & Robustness
 
 <p align="center">
   <a href="mailto:pratikramesh@gatech.edu">email</a> |
   <a href="https://scholar.google.com/citations?user=zJyuMYgAAAAJ&hl=en">google scholar</a> |
   <a href="https://github.com/pratikramesh1">github</a> |
   <a href="https://www.linkedin.com/in/pratik-ramesh-234471114/">linkdin</a> |
-  <a href="https://1drv.ms/b/s!Agzx62GYs0WOkQNnMht-x-qaPFHe?e=PluCxp">cv</a> 
+  <a href="https://1drv.ms/b/s!Agzx62GYs0WOkSk_9jxloA_r43BL?e=BWc7IE">cv</a> 
 </p>
 
 
@@ -28,13 +28,15 @@ I earned my masters in ECE in 2022 at Georgia Tech, advised by **[Rishikesan Kam
 ---
 ## <span style="color:#287cb9;">Publications</span>
 
-### <span style="color:orange;">[ORAL]</span> **ZipIt!: Multitask Model Merging without Training**
+### **ZipIt! Merging Models From Different Tasks without Training**
 George Stoica, Daniel Bolya, Jakob Brandt Bjorner, **Pratik Ramesh**, Taylor Hearn, Judy Hoffman
-<br>_Workshop on Unifying Representations in Neural Models, NeurIPS 2023_
+<br>_International Conference on Learning Representation (ICLR) 2024_
+<br>_(Also presented as an <span style="color: orange"> *oral* text</span> at Workshop on Unifying Representations in Neural Models, NeurIPS 2023)_
+
 
 <div class="actions button-container">
     <div class="button-group">
-        <button onclick="window.location.href='https://openreview.net/forum?id=oPGXH9Vm4R'" class="button">Paper</button>
+        <button onclick="window.location.href='https://arxiv.org/pdf/2305.03053.pdf'" class="button">Paper</button>
         <button onclick="window.location.href='https://github.com/gstoica27/ZipIt'" class="button">Code</button>
     </div>
 </div>
