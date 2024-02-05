@@ -31,7 +31,7 @@ I earned my masters in ECE in 2022 at Georgia Tech, advised by **[Rishikesan Kam
 ### **ZipIt! Merging Models From Different Tasks without Training**
 George Stoica, Daniel Bolya, Jakob Brandt Bjorner, **Pratik Ramesh**, Taylor Hearn, Judy Hoffman
 <br>_International Conference on Learning Representation (ICLR) 2024_
-<br>_(Also presented as an *<span style="color: orange">Oral</span>* at Workshop on Unifying Representations in Neural Models, NeurIPS 2023)_
+<br>_(Also presented as an <span style="color: orange">Oral</span> at Workshop on Unifying Representations in Neural Models, NeurIPS 2023)_
 
 
 <div class="actions button-container">
