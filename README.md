@@ -1,6 +1,5 @@
 ## <span style="color:#287cb9;">About Me</span>
-I’m a 2nd year Ph.D. student at Georgia Tech, advised by **[Judy Hoffman](https://faculty.cc.gatech.edu/~judy/)**. I’m interested in developing fundamental techniques and algorithms to make deep learning models efficient and robust. Specifically, my interests span efficient deep learning, model merging, transfer learning, bias detection, and robustness. Recently, my work has revolved around fusing fine-tuned models in settings such as multi-task learning, federated learning and continual learning. I am honoured to have been awarded the Herbert P. Haley fellowship by Georgia Tech for the years 2023-2024.
-
+I’m a 2nd year Ph.D. student at Georgia Tech, advised by **[Judy Hoffman](https://faculty.cc.gatech.edu/~judy/)**. I’m interested in developing fundamental techniques and algorithms to make deep learning models efficient and robust. My research focuses on efficient deep learning, model merging, transfer learning, bias detection & robustness. Recently, my work has revolved around fusing fine-tuned models in settings such as multi-task learning, federated learning and continual learning. I have been awarded the **Herbert P. Haley fellowship** by Georgia Tech for the years 2023-2024.
 
 I earned my masters in ECE in 2022 at Georgia Tech, advised by **[Rishikesan Kamaleswaran](https://bioinformatics.gatech.edu/rishikesan-kamaleswaran)** where I worked on machine translation on clinical sensor data as a research assistant. 
 
@@ -32,7 +31,7 @@ I earned my masters in ECE in 2022 at Georgia Tech, advised by **[Rishikesan Kam
 ### **ZipIt! Merging Models From Different Tasks without Training**
 George Stoica, Daniel Bolya, Jakob Brandt Bjorner, **Pratik Ramesh**, Taylor Hearn, Judy Hoffman
 <br>_International Conference on Learning Representation (ICLR) 2024_
-<br>_(Also presented as an ***ORAL*** at Workshop on Unifying Representations in Neural Models, NeurIPS 2023)_
+<br>_(Also presented as an <span style="color: orange">*Oral*</span> at Workshop on Unifying Representations in Neural Models, NeurIPS 2023)_
 
 
 <div class="actions button-container">
