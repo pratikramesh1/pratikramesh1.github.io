@@ -28,6 +28,21 @@ I earned my masters in ECE in 2022 at Georgia Tech, advised by **[Rishikesan Kam
 ---
 ## <span style="color:#287cb9;">Publications</span>
 
+### **Model Merging with SVD to ties the KnOTS**
+George Stoica*, Pratik Ramesh*, Boglarka Ecsedi, Leshem Choshen, Judy Hoffman
+<br>_Pre-Print_
+
+
+<div class="actions button-container">
+    <div class="button-group">
+        <button onclick="window.location.href='https://arxiv.org/pdf/2410.19735'" class="button">Paper</button>
+        <button onclick="window.location.href='https://github.com/gstoica27/KnOTS'" class="button">Code</button>
+    </div>
+</div>
+
+![ZipIt](/assets/Knots_225ppi.png)
+
+---
 ### **ZipIt! Merging Models From Different Tasks without Training**
 George Stoica, Daniel Bolya, Jakob Brandt Bjorner, **Pratik Ramesh**, Taylor Hearn, Judy Hoffman
 <br>_International Conference on Learning Representation (ICLR) 2024_
