@@ -1,16 +1,16 @@
 ## **About Me**
 
-I’m a 2nd year Ph.D. student at Georgia Tech, advised by **[Judy Hoffman](https://faculty.cc.gatech.edu/~judy/)**, where my research centers around understanding and editing the behaviour of deep neural networks. Specifically, my interests span representation learning, model merging and efficient deep learning. Recently, my work has revolved around fusing fine-tuned models in settings such as multi-task learning, federated learning, and continual learning. 
+I’m a 2nd year Ph.D. student at Georgia Tech, advised by **[Judy Hoffman](https://faculty.cc.gatech.edu/~judy/)**, focusing on understanding and editing the behavior of deep neural networks. My primary interests span representation learning, model merging, and efficient deep learning. Recently, my work has centered on fusing and editing fine-tuned models within multi-task learning, federated learning, and continual learning contexts.
 
 I earned my master's in ECE in 2022 at Georgia Tech, advised by **[Rishikesan Kamaleswaran](https://bioinformatics.gatech.edu/rishikesan-kamaleswaran)**, where I worked on machine translation on clinical sensor data as a research assistant. 
 
-I'm honored to have received the **Herbert P. Haley fellowship** by Georgia Tech for the years 2023-2024.
+I'm honored to be a recipient of the Herbert P. Haley Fellowship at Georgia Tech for 2023-2024.
 
 ### **Research Interests**
-- Efficient Deep Learning
+- Representation Learning
 - Model Merging
-- Transfer Learning
-- Bias Detection & Robustness
+- Efficient Deep Learning
+- Generative Models
 
 <p align="center">  
   <a href="mailto:pratikramesh@gatech.edu">email</a> |  
