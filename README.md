@@ -29,7 +29,8 @@ I earned my masters in ECE in 2022 at Georgia Tech, advised by **[Rishikesan Kam
 ## <span style="color:#287cb9;">Publications</span>
 
 ### **Model Merging with SVD to ties the KnOTS**
-George Stoica*, Pratik Ramesh*, Boglarka Ecsedi, Leshem Choshen, Judy Hoffman
+George Stoica\*, Pratik Ramesh\*, Boglarka Ecsedi, Leshem Choshen, Judy Hoffman
+\* Equal Contribution
 <br>_Pre-Print (under review)_
 
 
