@@ -1,8 +1,10 @@
 ## **About Me**
 
-I’m a 2nd year Ph.D. student at Georgia Tech, advised by **[Judy Hoffman](https://faculty.cc.gatech.edu/~judy/)**, where my research centers on developing fundamental techniques and algorithms to enhance the efficiency and robustness of deep learning models. Specifically, my interests span efficient deep learning, model merging, transfer learning, bias detection, and robustness. Recently, my work has revolved around fusing fine-tuned models in settings such as multi-task learning, federated learning, and continual learning. I have been awarded the **Herbert P. Haley fellowship** by Georgia Tech for the years 2023-2024.
+I’m a 2nd year Ph.D. student at Georgia Tech, advised by **[Judy Hoffman](https://faculty.cc.gatech.edu/~judy/)**, where my research centers on understanding and editing the behaviour of deep neural networks. Specifically, my interests span representation learning, model merging and efficient deep learning. Recently, my work has revolved around fusing fine-tuned models in settings such as multi-task learning, federated learning, and continual learning. 
 
 I earned my master's in ECE in 2022 at Georgia Tech, advised by **[Rishikesan Kamaleswaran](https://bioinformatics.gatech.edu/rishikesan-kamaleswaran)**, where I worked on machine translation on clinical sensor data as a research assistant. 
+
+I'm honored to have received the **Herbert P. Haley fellowship** by Georgia Tech for the years 2023-2024.
 
 ### **Research Interests**
 - Efficient Deep Learning
