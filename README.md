@@ -6,6 +6,9 @@ I earned my master's in ECE in 2022 at Georgia Tech, advised by **[Rishikesan Ka
 
 I'm honored to be a recipient of the Herbert P. Haley Fellowship at Georgia Tech for 2023-2024.
 
+<span style="color:blue">I'm on the lookout for internships for Summer 2025 focused on topics related to model efficiency, representation learning, and model editing. If interested, please feel free to reach out.</span>
+
+
 ### **Research Interests**
 - Representation Learning
 - Model Merging
