@@ -39,7 +39,7 @@ _Pre-Print (under review)_
     </div>
 </div>
 
-![KnOTS](/assets/KnOTS_225ppi.png)
+![KnOTS](/assets/KnOTS_method_video_final.gif)
 
 ---
 
