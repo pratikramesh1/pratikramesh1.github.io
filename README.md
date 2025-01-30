@@ -12,8 +12,7 @@ I'm honored to be a recipient of the Herbert P. Haley Fellowship at Georgia Tech
 ### **Research Interests**
 - Representation Learning
 - Model Merging
-- Efficient Deep Learning
-- Generative Models
+- LLMs
 
 <p align="center">  
   <a href="mailto:pratikramesh@gatech.edu">email</a> |  
@@ -30,7 +29,7 @@ I'm honored to be a recipient of the Herbert P. Haley Fellowship at Georgia Tech
 ### **Model Merging with SVD to tie the KnOTS**
 George Stoica\*, **Pratik Ramesh**\*, Boglarka Ecsedi, Leshem Choshen, Judy Hoffman  
 \* Equal Contribution  
-_Pre-Print (under review)_
+_International Conference on Learning Representation (ICLR) 2025_
 
 <div class="actions button-container">
     <div class="button-group">
