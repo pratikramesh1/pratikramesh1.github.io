@@ -1,6 +1,6 @@
 ## **About Me**
 
-I’m a 2nd year Ph.D. student at Georgia Tech, advised by **[Judy Hoffman](https://faculty.cc.gatech.edu/~judy/)**, focusing on understanding and editing the behavior of deep neural networks. My primary interests span representation learning, model merging, and efficient deep learning. Recently, my work has centered on fusing and editing fine-tuned models within multi-task learning, federated learning, and continual learning contexts.
+I’m a 3rd year Ph.D. student at Georgia Tech, advised by **[Judy Hoffman](https://faculty.cc.gatech.edu/~judy/)**, focusing on understanding and editing the behavior of deep neural networks. My primary interests span representation learning, model merging, and efficient deep learning. Recently, my work has centered on fusing and editing fine-tuned models within multi-task learning, federated learning, and continual learning contexts.
 
 I earned my master's in ECE in 2022 at Georgia Tech, advised by **[Rishikesan Kamaleswaran](https://bioinformatics.gatech.edu/rishikesan-kamaleswaran)**, where I worked on machine translation on clinical sensor data as a research assistant. 
 
