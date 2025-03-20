@@ -28,9 +28,7 @@ I'm honored to be a recipient of the Herbert P. Haley Fellowship at Georgia Tech
 
 ### **Model Merging with SVD to tie the KnOTS**
 George Stoica\*, **Pratik Ramesh**\*, Boglarka Ecsedi, Leshem Choshen, Judy Hoffman    
-
 _International Conference on Learning Representation (ICLR) 2025_  
-
 \* Equal Contribution
 
 
