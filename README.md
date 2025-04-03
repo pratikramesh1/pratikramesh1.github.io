@@ -19,8 +19,7 @@ I'm honored to be a recipient of the Herbert P. Haley Fellowship at Georgia Tech
   <a href="https://scholar.google.com/citations?user=zJyuMYgAAAAJ&hl=en">google scholar</a> |  
   <a href="https://github.com/pratikramesh1">github</a> |  
   <a href="https://www.linkedin.com/in/pratik-ramesh-234471114/">linkedin</a> |  
-  <a href="https://gtvault-my.sharepoint.com/:b:/g/personal/pramesh39_gatech_edu/ESOENEUdRqdBs0epipOvpfkB84lad5EY942gX75Qeqdh4w?e=BuLAHK">cv</a>  
-</p>
+  <a href="assets/Pratik_Ramesh_CV.pdf">cv</a> </p>
 
 ---
 
